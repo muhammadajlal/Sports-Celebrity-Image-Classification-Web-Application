@@ -1,5 +1,5 @@
 # Sports_Celebrity_Image_Classification
-
+Note: The project folder is too big to show but you can download the zip file containing everything.
 In this data science and machine learning project, I classify sports personalities. I restrict classification to only 5 people,
 * Maria Sharapova
 * Serena Williams
@@ -22,4 +22,3 @@ Technologies used in this project,
 * Jupyter notebook, visual studio code and pycharm as IDE
 * Python flask for http server
 * HTML/CSS/Javascript for UI
-Note: The project folder is too big to show but you can download the zip file containing everything.
