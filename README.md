@@ -1,6 +1,8 @@
 # Sports_Celebrity_Image_Classification
-Note: The project folder is too big to show but you can download the zip file containing everything.
-In this data science and machine learning project, I classify sports personalities. I restrict classification to only 5 people,
+
+In this data science and machine learning project, I classify sports personalities. Note: The project folder is too big to show but you can download the zip file containing everything.
+
+I restrict classification to only 5 people;
 * Maria Sharapova
 * Serena Williams
 * Virat Kohli
