@@ -1,7 +1,6 @@
 # Sports_Celebrity_Image_Classification
 
-In this data science and machine learning project, I classify sports personalities. Note: The project folder is too big to show but you can download the zip file containing everything.
-
+In this data science and machine learning project, I classify sports personalities. This repository contains large files and I pushed these files using Git. 
 I restrict classification to only 5 people;
 * Maria Sharapova
 * Serena Williams
