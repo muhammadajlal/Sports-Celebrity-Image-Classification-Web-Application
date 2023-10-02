@@ -22,3 +22,4 @@ Technologies used in this project,
 * Jupyter notebook, visual studio code and pycharm as IDE
 * Python flask for http server
 * HTML/CSS/Javascript for UI
+Note: The project folder is too big to show but you can download the zip file containing everything.
