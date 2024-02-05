@@ -64,7 +64,7 @@
 The application was deployed on an AWS EC2 Ubuntu instance using a reverse proxy setup.
 
 ## Jupyter Notebook For This Project 
-You can find the detailed Jupyter Notebook of this project here `https://github.com/muhammadajlal/Machine-Learning-Notebooks/blob/main/Sports_Celebrity_Image_Classification_Application_Notebook.ipynb`. This Jupyter Notebook contains every thing from EDA to machine learning model training.
+You can find the detailed Jupyter Notebook of this project here `https://github.com/muhammadajlal/Machine-Learning-Notebooks/blob/75ac248d9d8bb307bd46984b9e833dc8f4bd878a/Sports_Celebrity_Image_Classification_Application_Notebook.ipynb`. This Jupyter Notebook contains every thing from EDA to machine learning model training.
 
 ## Note
 
