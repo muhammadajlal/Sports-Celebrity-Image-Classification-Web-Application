@@ -1,4 +1,4 @@
-# Sports_Celebrity_Image_Classification
+# Sports Celebrity Image Classification Web Application
 
 ###  Welcome to the Sports Celebrity Image Classification project! This data science and machine learning project focuses on building an interactive web application to classify images of sports personalities.
 
@@ -58,6 +58,8 @@
 - **Gitbash, WinSCP, and Nginx**: Used as tools for deploying the reverse proxy setup.
 - **Python Flask**: Used for the HTTP server.
 - **HTML/CSS/Javascript**: Used for the user interface.
+
+## Deployment
 
 The application was deployed on an AWS EC2 Ubuntu instance using a reverse proxy setup.
 
