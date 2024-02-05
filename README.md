@@ -51,17 +51,20 @@
 ## Technologies Used
 
 - **Python**: The main programming language used.
+- **Javascript/HTML/CSS**: Used for the application user interface.
 - **Numpy and OpenCV**: Used for data cleaning.
 - **Matplotlib & Seaborn**: Used for data visualization.
 - **Scikit-Learn**: Used Support Vector Classifier for model building.
+- **Python Flask**: Used for the HTTP server.
 - **Jupyter Notebook, Visual Studio Code, and PyCharm**: Used as IDEs.
 - **Gitbash, WinSCP, and Nginx**: Used as tools for deploying the reverse proxy setup.
-- **Python Flask**: Used for the HTTP server.
-- **HTML/CSS/Javascript**: Used for the user interface.
 
 ## Deployment
 
 The application was deployed on an AWS EC2 Ubuntu instance using a reverse proxy setup.
+
+## Jupyter Notebook For This Project 
+You can find the detailed Jupyter Notebook of this project here `https://github.com/muhammadajlal/Machine-Learning-Notebooks/blob/main/Sports_Celebrity_Image_Classification_Application_Notebook.ipynb`. This Jupyter Notebook contains every thing from EDA to machine learning model training.
 
 ## Note
 
