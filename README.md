@@ -1,6 +1,6 @@
 # Sports_Celebrity_Image_Classification
 
-###  Welcome to the Sports Celebrity Image Classification project! This data science and machine learning project focuses on classifying images of five sports personalities.
+###  Welcome to the Sports Celebrity Image Classification project! This data science and machine learning project focuses on building an interactive web application to classify images of five sports personalities.
 
 ## How to Run the Application Locally
 
