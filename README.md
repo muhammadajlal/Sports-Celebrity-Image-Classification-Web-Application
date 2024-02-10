@@ -9,7 +9,7 @@
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/muhammadajlal/Sports_Celebrity_Image_Classification.git
+    git clone https://github.com/muhammadajlal/Sports-Celebrity-Image-Classification-Web-Application.git
     ```
 
 2. Navigate to the project directory:
